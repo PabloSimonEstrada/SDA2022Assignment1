@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SDA 2022 Assignment 1</string>
+    <string name="mess_toast">You pressed the button.</string>
+</resources>
